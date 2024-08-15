@@ -5,8 +5,8 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg bord blur">
         <div className="container">
-          <a className="logo icon-img-100" href="#">
-            <a href="http://localhost:3000"><img src="/dark/assets/imgs/logo-light.png" alt="logo" /></a>
+          <a className="logo icon-img-100" href="https://mhazim.vercel.app">
+            <img src="/dark/assets/imgs/logo-light.png" alt="logo" />
           </a>
 
 
