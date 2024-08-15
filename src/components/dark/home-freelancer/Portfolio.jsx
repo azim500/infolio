@@ -32,7 +32,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Aceworkz</a>
+                      <a href="https://www.aceworkz.com/" target="_blank">Aceworkz</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -50,7 +50,7 @@ function Portfolio() {
                 <img src="/dark/assets/imgs/works/4/Amanda-Bloxsom-Photography.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/dark/project3">Amanda Bloxsom Photography</a>
+                  <a href="https://www.amandabloxsomphotography.com.au/" target="_blank">Amanda Bloxsom Photography</a>
                   </h5>
                   <p>
                     <a href="/dark/portfolio-standard">Bug Fixing</a>
@@ -65,7 +65,7 @@ function Portfolio() {
                 <img src="/dark/assets/imgs/works/4/ambientec.com.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/dark/project3">Ambientec</a>
+                  <a href="ambientec.com.mx" target="_blank">Ambientec</a>
                   </h5>
                   <p>
                     <a href="/dark/portfolio-standard">Website Design</a>
@@ -80,7 +80,7 @@ function Portfolio() {
                 <img src="/dark/assets/imgs/works/4/Atunsostenible.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/dark/project3">Atunsostenible</a>
+                  <a href="atunsostenible.com" target="_blank">Atunsostenible</a>
                   </h5>
                   <p>
                     <a href="/dark/portfolio-standard">Bug Fixing</a>
@@ -95,7 +95,7 @@ function Portfolio() {
                 <img src="/dark/assets/imgs/works/4/Bnb-Specialist.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/dark/project3">Bnb-Specialist</a>
+                  <a href="#" target="_blank">Bnb-Specialist</a>
                   </h5>
                   <p>
                     <a href="/dark/portfolio-standard">Bug Fixing</a>
@@ -111,7 +111,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Brian + Lindsey Photography</a>
+                    <a href="brianpluslindsey.com" target="_blank">Brian + Lindsey Photography</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -130,7 +130,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Byråvelgeren</a>
+                    <a href="www.byravelgeren.no" target="_blank">Byråvelgeren</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -149,7 +149,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Ekomode</a>
+                    <a href="#" target="_blank">Ekomode</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -168,7 +168,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Lavajato Ilimitado</a>
+                    <a href="lavajatoilimitado.com.br" target="_blank">Lavajato Ilimitado</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -187,7 +187,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Maxim Edu</a>
+                    <a href="#" target="_blank">Maxim Edu</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -206,7 +206,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Path Finder Crypto</a>
+                    <a href="#" target="_blank">Path Finder Crypto</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -225,7 +225,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">National Courses</a>
+                    <a href="nationalcourses.edu.au" target="_blank">National Courses</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -244,7 +244,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Smart Wealth</a>
+                      <a href="#" target="_blank">Smart Wealth</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -263,7 +263,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">TTT Jewelry</a>
+                      <a href="tttjewelry.com" target="_blank">TTT Jewelry</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -282,7 +282,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Vapestation</a>
+                      <a href="vapestation.de" target="_blank">Vapestation</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -301,7 +301,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Instyleridesga</a>
+                      <a href="instyleridesga.com" target="_blank">Instyleridesga</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -320,7 +320,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Bnb Specialist</a>
+                      <a href="#" target="_blank">Bnb Specialist</a>
                     </h5>
                   </div>
                   <div className="ml-auto">
@@ -339,7 +339,7 @@ function Portfolio() {
                 <div className="cont inline d-flex align-items-center">
                   <div>
                     <h5>
-                      <a href="/dark/project3">Drip Player</a>
+                      <a href="#" target="_blank">Drip Player</a>
                     </h5>
                   </div>
                   <div className="ml-auto">

@@ -5947,7 +5947,7 @@ footer.clean-footer.crev:before {
 }
 
 .freelancer .caption h1 {
-  font-size: 40px;
+  font-size: 10vw;
   font-weight: 800;
   line-height: 1.2;
   text-transform: uppercase;
@@ -5958,6 +5958,10 @@ footer.clean-footer.crev:before {
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
   z-index: -1;
+}
+
+.header .caption h1 {
+  font-size: 40px !important;
 }
 
 .freelancer .caption h1 span {
