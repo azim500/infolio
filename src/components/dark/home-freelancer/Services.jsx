@@ -49,7 +49,7 @@ function Services() {
                 <h4>Custom Theme Development</h4>
               </div>
               <div className="img">
-                <img src="/dark/assets/imgs/works/1/1.jpg" alt="" />
+                <img src="/dark/assets/imgs/intro/CTD.jpg" alt="" />
               </div>
 {/*         <div className="more text-u ls1 fz-12">
                 <a href="/dark/page-services-details">
@@ -63,7 +63,7 @@ function Services() {
                 <h4>Maintenance and Updates</h4>
               </div>
               <div className="img">
-                <img src="/dark/assets/imgs/works/1/2.jpg" alt="" />
+                <img src="/dark/assets/imgs/intro/Maintenance-and-Updates.jpg" alt="" />
               </div>
 {/*         <div className="more text-u ls1 fz-12">
                 <a href="/dark/page-services-details">
@@ -77,7 +77,7 @@ function Services() {
                 <h4>Troubleshooting and Support</h4>
               </div>
               <div className="img">
-                <img src="/dark/assets/imgs/works/1/3.jpg" alt="" />
+                <img src="/dark/assets/imgs/intro/Troubleshooting-and-Support.jpg" alt="" />
               </div>
 {/*           <div className="more text-u ls1 fz-12">
                 <a href="/dark/page-services-details">
@@ -91,7 +91,7 @@ function Services() {
                 <h4>E-commerce Solutions</h4>
               </div>
               <div className="img">
-                <img src="/dark/assets/imgs/works/1/4.jpg" alt="" />
+                <img src="/dark/assets/imgs/intro/E-commerce-Solutions.jpg" alt="" />
               </div>
 {/*               <div className="more text-u ls1 fz-12">
                 <a href="/dark/page-services-details">
@@ -105,7 +105,7 @@ function Services() {
                 <h4>Performance Optimization</h4>
               </div>
               <div className="img">
-                <img src="/dark/assets/imgs/works/1/5.jpg" alt="" />
+                <img src="/dark/assets/imgs/intro/Performance-Optimization.jpg" alt="" />
               </div>
 {/*           <div className="more text-u ls1 fz-12">
                 <a href="/dark/page-services-details">
