@@ -5960,10 +5960,6 @@ footer.clean-footer.crev:before {
   z-index: -1;
 }
 
-.header .caption h1 {
-  font-size: 40px !important;
-}
-
 .freelancer .caption h1 span {
   display: block;
   white-space: nowrap;
