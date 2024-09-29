@@ -30,10 +30,10 @@ function Header() {
       </div>
       <div className="caption">
         <h1 className="up stroke">
-          <span>I&#39;m a WordPress</span> <span>Developer</span>
+          <span>Pro WordPress</span> <span>Developer</span>
         </h1>
         <h1 className="down">
-          <span>I&#39;m a WordPress</span> <span>Developer</span>
+          <span>Pro WordPress</span> <span>Developer</span>
         </h1>
       </div>
     </div>

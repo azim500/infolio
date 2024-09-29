@@ -30,8 +30,7 @@ function Contact() {
                 ref={domRef}
               >
                 <span className="rotate-text">
-                  Elevate Your Brand with Stunning 
-                  <span className="fw-200">WordPress Solutions!</span>
+                  Elevate Your Brand with Stunning WordPress Solutions!
                 </span>
               </h2>
               <p className="mt-10">
